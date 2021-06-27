@@ -5,3 +5,6 @@ na.leagueoflegends.com
 leagueoflegends.com
 roblox.com
 mihoyo.com
+steampowered.com
+minecraftservers.org
+op.gg
