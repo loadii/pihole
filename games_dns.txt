@@ -1,3 +1,5 @@
-.leagueoflegends.
-.minecraft.
+leagueoflegends.com
+minecraft.com
+lolstatic.com
+
 
