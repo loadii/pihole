@@ -1,5 +1,6 @@
 lolstatic.com
 www.minecraft.net
+minecraft.net
 mojang.com
 na.leagueoflegends.com
 leagueoflegends.com
