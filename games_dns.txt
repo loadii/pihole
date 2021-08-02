@@ -5,6 +5,7 @@ minecraft.net
 mojang.com
 na.leagueoflegends.com
 leagueoflegends.com
+www.leagueoflegends.com
 roblox.com
 www.roblox.com
 mihoyo.com
